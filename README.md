@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ShopKart Authentication Lab
 
 Minimal full-stack app for customer register, login, profile, and logout using JWT in an HttpOnly cookie.
@@ -93,3 +94,6 @@ Open http://localhost:5173
 4. Browser automatically sends the cookie with Axios (`withCredentials: true`)
 5. Auth middleware verifies the JWT
 6. Protected API (`GET /customers/me`) returns the customer
+=======
+# ShopKart
+>>>>>>> a8009c96c76b76a41f955631ef7f485789d880bf
